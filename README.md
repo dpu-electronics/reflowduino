@@ -7,6 +7,6 @@ The purpuse of the case is to make sure that the bottom does not short, no wires
 
 Case design is written in OpenScad available at www.openscad.net or better to be downloaded from www.openscad.org and run locally.  The case is a work in progress; the holes are not in the correct location yet.  Note the use of a function for No. 4-40 hex socket head bolts.
 
-The code (to be posted shortly) is very similar to the original Reflowduino code, but has had some difficult to use features removed such as bluetooth communications and audio beeps and the associated libraries.
+The code (from JG) is very similar to the original Reflowduino code, but has had some difficult to use features removed such as bluetooth communications and audio beeps and the associated libraries.
 
 
